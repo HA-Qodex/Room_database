@@ -10,4 +10,4 @@ Room database with notification
 * Delete data
 
 # Demonstration
-![](https://media.giphy.com/media/yUYnrXwQPhxNVHAmF6/source.gif)
+![](https://media.giphy.com/media/yUYnrXwQPhxNVHAmF6/giphy.gif)
